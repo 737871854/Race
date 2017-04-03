@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: a9e37ad04c48375498b8d5d370cc1058
+timeCreated: 1481675525
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: head_01
+    100002: head_02
+    100004: L_cibang
+    100006: L_H_heel
+    100008: L_H_knee
+    100010: L_H_pao_01
+    100012: L_H_pao_02
+    100014: L_H_thigh
+    100016: L_H_toe
+    100018: L_H_wheels
+    100020: L_Q_heel
+    100022: L_Q_knee
+    100024: L_Q_thigh
+    100026: L_Q_toe
+    100028: L_Q_wheels
+    100030: //RootNode
+    100032: mouth
+    100034: R_cibang
+    100036: R_H_heel
+    100038: R_H_knee
+    100040: R_H_pao_01
+    100042: R_H_pao_02
+    100044: R_H_thigh
+    100046: R_H_toe
+    100048: R_H_wheels
+    100050: R_Q_heel
+    100052: R_Q_knee
+    100054: R_Q_thigh
+    100056: R_Q_toe
+    100058: R_Q_wheels
+    100060: Spinal_01
+    100062: Spinal_02
+    100064: tail_01
+    100066: tail_02
+    100068: tail_03
+    100070: tail_04
+    100072: tail_05
+    100074: tail_06
+    100076: tail_07
+    100078: tail_08
+    100080: tail_09
+    100082: tail_10
+    100084: tail_11
+    100086: waist
+    100088: model_leopard_waist
+    400000: head_01
+    400002: head_02
+    400004: L_cibang
+    400006: L_H_heel
+    400008: L_H_knee
+    400010: L_H_pao_01
+    400012: L_H_pao_02
+    400014: L_H_thigh
+    400016: L_H_toe
+    400018: L_H_wheels
+    400020: L_Q_heel
+    400022: L_Q_knee
+    400024: L_Q_thigh
+    400026: L_Q_toe
+    400028: L_Q_wheels
+    400030: //RootNode
+    400032: mouth
+    400034: R_cibang
+    400036: R_H_heel
+    400038: R_H_knee
+    400040: R_H_pao_01
+    400042: R_H_pao_02
+    400044: R_H_thigh
+    400046: R_H_toe
+    400048: R_H_wheels
+    400050: R_Q_heel
+    400052: R_Q_knee
+    400054: R_Q_thigh
+    400056: R_Q_toe
+    400058: R_Q_wheels
+    400060: Spinal_01
+    400062: Spinal_02
+    400064: tail_01
+    400066: tail_02
+    400068: tail_03
+    400070: tail_04
+    400072: tail_05
+    400074: tail_06
+    400076: tail_07
+    400078: tail_08
+    400080: tail_09
+    400082: tail_10
+    400084: tail_11
+    400086: waist
+    400088: model_leopard_waist
+    7400000: idle_bx01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_bx01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: waist
+        weight: 1
+      - path: waist/Spinal_01
+        weight: 1
+      - path: waist/Spinal_01/L_H_pao_01
+        weight: 1
+      - path: waist/Spinal_01/L_H_pao_01/L_H_pao_02
+        weight: 1
+      - path: waist/Spinal_01/L_H_thigh
+        weight: 1
+      - path: waist/Spinal_01/L_H_thigh/L_H_knee
+        weight: 1
+      - path: waist/Spinal_01/L_H_thigh/L_H_knee/L_H_heel
+        weight: 1
+      - path: waist/Spinal_01/L_H_thigh/L_H_knee/L_H_heel/L_H_toe
+        weight: 1
+      - path: waist/Spinal_01/L_H_wheels
+        weight: 1
+      - path: waist/Spinal_01/R_H_pao_01
+        weight: 1
+      - path: waist/Spinal_01/R_H_pao_01/R_H_pao_02
+        weight: 1
+      - path: waist/Spinal_01/R_H_thigh
+        weight: 1
+      - path: waist/Spinal_01/R_H_thigh/R_H_knee
+        weight: 1
+      - path: waist/Spinal_01/R_H_thigh/R_H_knee/R_H_heel
+        weight: 1
+      - path: waist/Spinal_01/R_H_thigh/R_H_knee/R_H_heel/R_H_toe
+        weight: 1
+      - path: waist/Spinal_01/R_H_wheels
+        weight: 1
+      - path: waist/Spinal_01/tail_01
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05/tail_06
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05/tail_06/tail_07
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05/tail_06/tail_07/tail_08
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05/tail_06/tail_07/tail_08/tail_09
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05/tail_06/tail_07/tail_08/tail_09/tail_10
+        weight: 1
+      - path: waist/Spinal_01/tail_01/tail_02/tail_03/tail_04/tail_05/tail_06/tail_07/tail_08/tail_09/tail_10/tail_11
+        weight: 1
+      - path: waist/Spinal_02
+        weight: 1
+      - path: waist/Spinal_02/head_01
+        weight: 1
+      - path: waist/Spinal_02/head_01/head_02
+        weight: 1
+      - path: waist/Spinal_02/head_01/head_02/mouth
+        weight: 1
+      - path: waist/Spinal_02/L_cibang
+        weight: 1
+      - path: waist/Spinal_02/L_Q_thigh
+        weight: 1
+      - path: waist/Spinal_02/L_Q_thigh/L_Q_knee
+        weight: 1
+      - path: waist/Spinal_02/L_Q_thigh/L_Q_knee/L_Q_heel
+        weight: 1
+      - path: waist/Spinal_02/L_Q_thigh/L_Q_knee/L_Q_heel/L_Q_toe
+        weight: 1
+      - path: waist/Spinal_02/L_Q_wheels
+        weight: 1
+      - path: waist/Spinal_02/R_cibang
+        weight: 1
+      - path: waist/Spinal_02/R_Q_thigh
+        weight: 1
+      - path: waist/Spinal_02/R_Q_thigh/R_Q_knee
+        weight: 1
+      - path: waist/Spinal_02/R_Q_thigh/R_Q_knee/R_Q_heel
+        weight: 1
+      - path: waist/Spinal_02/R_Q_thigh/R_Q_knee/R_Q_heel/R_Q_toe
+        weight: 1
+      - path: waist/Spinal_02/R_Q_wheels
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

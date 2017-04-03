@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 85b9edededdcf3a4392364dec582b95b
+timeCreated: 1481675525
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: head_01
+    100002: head_02
+    100004: L_cibang
+    100006: L_H_heel
+    100008: L_H_knee
+    100010: L_H_pao_01
+    100012: L_H_pao_02
+    100014: L_H_thigh
+    100016: L_H_toe
+    100018: L_H_wheels
+    100020: L_Q_heel
+    100022: L_Q_knee
+    100024: L_Q_thigh
+    100026: L_Q_toe
+    100028: L_Q_wheels
+    100030: //RootNode
+    100032: mouth
+    100034: nurbsCircle31
+    100036: nurbsCircle33
+    100038: polySurface64
+    100040: R_cibang
+    100042: R_H_heel
+    100044: R_H_knee
+    100046: R_H_pao_01
+    100048: R_H_pao_02
+    100050: R_H_thigh
+    100052: R_H_toe
+    100054: R_H_wheels
+    100056: R_Q_heel
+    100058: R_Q_knee
+    100060: R_Q_thigh
+    100062: R_Q_toe
+    100064: R_Q_wheels
+    100066: Spinal_01
+    100068: Spinal_02
+    100070: tail_01
+    100072: tail_02
+    100074: tail_03
+    100076: tail_04
+    100078: tail_05
+    100080: tail_06
+    100082: tail_07
+    100084: tail_08
+    100086: tail_09
+    100088: tail_10
+    100090: tail_11
+    100092: waist
+    400000: head_01
+    400002: head_02
+    400004: L_cibang
+    400006: L_H_heel
+    400008: L_H_knee
+    400010: L_H_pao_01
+    400012: L_H_pao_02
+    400014: L_H_thigh
+    400016: L_H_toe
+    400018: L_H_wheels
+    400020: L_Q_heel
+    400022: L_Q_knee
+    400024: L_Q_thigh
+    400026: L_Q_toe
+    400028: L_Q_wheels
+    400030: //RootNode
+    400032: mouth
+    400034: nurbsCircle31
+    400036: nurbsCircle33
+    400038: polySurface64
+    400040: R_cibang
+    400042: R_H_heel
+    400044: R_H_knee
+    400046: R_H_pao_01
+    400048: R_H_pao_02
+    400050: R_H_thigh
+    400052: R_H_toe
+    400054: R_H_wheels
+    400056: R_Q_heel
+    400058: R_Q_knee
+    400060: R_Q_thigh
+    400062: R_Q_toe
+    400064: R_Q_wheels
+    400066: Spinal_01
+    400068: Spinal_02
+    400070: tail_01
+    400072: tail_02
+    400074: tail_03
+    400076: tail_04
+    400078: tail_05
+    400080: tail_06
+    400082: tail_07
+    400084: tail_08
+    400086: tail_09
+    400088: tail_10
+    400090: tail_11
+    400092: waist
+    4300000: polySurface64
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface64
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

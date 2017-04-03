@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: ff1c102a7b2ef5c4a93c756e08936e4c
+timeCreated: 1482398618
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: car
+    100002: //RootNode
+    100004: fxp
+    100006: joint11
+    100008: joint29
+    100010: L_car_01
+    100012: L_car_02
+    100014: L_car_03
+    100016: L_CG_01
+    100018: L_CM
+    100020: L_Cw_01
+    100022: L_Cw_03
+    100024: L_Cw_04
+    100026: L_h_CL
+    100028: L_Q_CL
+    100030: L_wy
+    100032: R_car_01
+    100034: R_car_02
+    100036: R_CG_01
+    100038: R_CG_02
+    100040: R_CM
+    100042: R_Cw_01
+    100044: R_Cw_02
+    100046: R_h_CL
+    100048: R_Q_CL
+    100050: R_wy
+    100052: waist
+    100054: zy
+    400000: car
+    400002: //RootNode
+    400004: fxp
+    400006: joint11
+    400008: joint29
+    400010: L_car_01
+    400012: L_car_02
+    400014: L_car_03
+    400016: L_CG_01
+    400018: L_CM
+    400020: L_Cw_01
+    400022: L_Cw_03
+    400024: L_Cw_04
+    400026: L_h_CL
+    400028: L_Q_CL
+    400030: L_wy
+    400032: R_car_01
+    400034: R_car_02
+    400036: R_CG_01
+    400038: R_CG_02
+    400040: R_CM
+    400042: R_Cw_01
+    400044: R_Cw_02
+    400046: R_h_CL
+    400048: R_Q_CL
+    400050: R_wy
+    400052: waist
+    400054: zy
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

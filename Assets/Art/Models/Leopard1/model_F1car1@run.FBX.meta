@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 8049ad11cabf169448646986bcc2c453
+timeCreated: 1478219810
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 11
+    100006: 12
+    100008: 13
+    100010: 14
+    100012: 15
+    100014: 16
+    100016: 17
+    100018: 18
+    100020: 19
+    100022: 2
+    100024: 20
+    100026: 21
+    100028: 22
+    100030: 23
+    100032: 24
+    100034: 26
+    100036: 27
+    100038: 28
+    100040: 29
+    100042: 3
+    100044: 30
+    100046: 31
+    100048: 32
+    100050: 33
+    100052: 34
+    100054: 35
+    100056: 36
+    100058: 37
+    100060: 38
+    100062: 39
+    100064: 4
+    100066: 40
+    100068: 40 1
+    100070: 41
+    100072: 42
+    100074: 43
+    100076: 44
+    100078: 45
+    100080: 5
+    100082: 6
+    100084: 7
+    100086: 8
+    100088: 9
+    100090: bone001
+    100092: Bone005
+    100094: Bone006
+    100096: Bone007
+    100098: Bone008
+    100100: Bone009
+    100102: Bone010
+    100104: Bone011
+    100106: Bone013
+    100108: Bone014
+    100110: Bone015
+    100112: Bone017
+    100114: Bone019
+    100116: Bone021
+    100118: Bone023
+    100120: Bone024
+    100122: Bone026
+    100124: Bone027
+    100126: Bone029
+    100128: Bone031
+    100130: Bone033
+    100132: Bone035
+    100134: Bone037
+    100136: Bone039
+    100138: Bone041
+    100140: Bone043
+    100142: Bone045
+    100144: Bone047
+    100146: Bone049
+    100148: Bone051
+    100150: Bone055
+    100152: Bone056
+    100154: Box002
+    100156: //RootNode
+    100158: "\u7EC4001"
+    400000: 1
+    400002: 10
+    400004: 11
+    400006: 12
+    400008: 13
+    400010: 14
+    400012: 15
+    400014: 16
+    400016: 17
+    400018: 18
+    400020: 19
+    400022: 2
+    400024: 20
+    400026: 21
+    400028: 22
+    400030: 23
+    400032: 24
+    400034: 26
+    400036: 27
+    400038: 28
+    400040: 29
+    400042: 3
+    400044: 30
+    400046: 31
+    400048: 32
+    400050: 33
+    400052: 34
+    400054: 35
+    400056: 36
+    400058: 37
+    400060: 38
+    400062: 39
+    400064: 4
+    400066: 40
+    400068: 40 1
+    400070: 41
+    400072: 42
+    400074: 43
+    400076: 44
+    400078: 45
+    400080: 5
+    400082: 6
+    400084: 7
+    400086: 8
+    400088: 9
+    400090: bone001
+    400092: Bone005
+    400094: Bone006
+    400096: Bone007
+    400098: Bone008
+    400100: Bone009
+    400102: Bone010
+    400104: Bone011
+    400106: Bone013
+    400108: Bone014
+    400110: Bone015
+    400112: Bone017
+    400114: Bone019
+    400116: Bone021
+    400118: Bone023
+    400120: Bone024
+    400122: Bone026
+    400124: Bone027
+    400126: Bone029
+    400128: Bone031
+    400130: Bone033
+    400132: Bone035
+    400134: Bone037
+    400136: Bone039
+    400138: Bone041
+    400140: Bone043
+    400142: Bone045
+    400144: Bone047
+    400146: Bone049
+    400148: Bone051
+    400150: Bone055
+    400152: Bone056
+    400154: Box002
+    400156: //RootNode
+    400158: "\u7EC4001"
+    4300000: 15
+    4300002: 11
+    4300004: 24
+    4300006: 38
+    4300008: 31
+    4300010: 30
+    4300012: 40
+    4300014: 6
+    4300016: 17
+    4300018: 37
+    4300020: 27
+    4300022: 26
+    4300024: 36
+    4300026: 8
+    4300028: 12
+    4300030: Box002
+    4300032: 42
+    4300034: 23
+    4300036: 39
+    4300038: 44
+    4300040: 21
+    4300042: 32
+    4300044: 4
+    4300046: 7
+    4300048: 13
+    4300050: 28
+    4300052: 29
+    4300054: 20
+    4300056: 5
+    4300058: 43
+    4300060: 33
+    4300062: 35
+    4300064: 34
+    4300066: 10
+    4300068: 41
+    4300070: 16
+    4300072: 14
+    4300074: 18
+    4300076: 19
+    4300078: 9
+    4300080: 3
+    4300082: 40
+    4300084: 45
+    4300086: 2
+    4300088: 1
+    4300090: 22
+    7400000: run
+    9500000: //RootNode
+    13700000: 1
+    13700002: 10
+    13700004: 11
+    13700006: 12
+    13700008: 13
+    13700010: 14
+    13700012: 15
+    13700014: 16
+    13700016: 17
+    13700018: 18
+    13700020: 19
+    13700022: 2
+    13700024: 20
+    13700026: 21
+    13700028: 22
+    13700030: 23
+    13700032: 24
+    13700034: 26
+    13700036: 27
+    13700038: 28
+    13700040: 29
+    13700042: 3
+    13700044: 30
+    13700046: 31
+    13700048: 32
+    13700050: 33
+    13700052: 34
+    13700054: 35
+    13700056: 36
+    13700058: 37
+    13700060: 38
+    13700062: 39
+    13700064: 4
+    13700066: 40
+    13700068: 40 1
+    13700070: 41
+    13700072: 42
+    13700074: 43
+    13700076: 44
+    13700078: 45
+    13700080: 5
+    13700082: 6
+    13700084: 7
+    13700086: 8
+    13700088: 9
+    13700090: Box002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bone001
+        weight: 1
+      - path: bone001/Bone005
+        weight: 1
+      - path: bone001/Bone006
+        weight: 1
+      - path: bone001/Bone007
+        weight: 1
+      - path: bone001/Bone008
+        weight: 1
+      - path: bone001/Bone009
+        weight: 1
+      - path: bone001/Bone010
+        weight: 1
+      - path: bone001/Bone011
+        weight: 1
+      - path: bone001/Bone013
+        weight: 1
+      - path: bone001/Bone014
+        weight: 1
+      - path: bone001/Bone015
+        weight: 1
+      - path: bone001/Bone017
+        weight: 1
+      - path: bone001/Bone019
+        weight: 1
+      - path: bone001/Bone021
+        weight: 1
+      - path: bone001/Bone023
+        weight: 1
+      - path: bone001/Bone024
+        weight: 1
+      - path: bone001/Bone026
+        weight: 1
+      - path: bone001/Bone027
+        weight: 1
+      - path: bone001/Bone029
+        weight: 1
+      - path: bone001/Bone031
+        weight: 1
+      - path: bone001/Bone033
+        weight: 1
+      - path: bone001/Bone035
+        weight: 1
+      - path: bone001/Bone037
+        weight: 1
+      - path: bone001/Bone039
+        weight: 1
+      - path: bone001/Bone041
+        weight: 1
+      - path: bone001/Bone043
+        weight: 1
+      - path: bone001/Bone045
+        weight: 1
+      - path: bone001/Bone047
+        weight: 1
+      - path: bone001/Bone049
+        weight: 1
+      - path: bone001/Bone051
+        weight: 1
+      - path: bone001/Bone055
+        weight: 1
+      - path: bone001/Bone056
+        weight: 1
+      - path: "\u7EC4001"
+        weight: 1
+      - path: "\u7EC4001/1"
+        weight: 1
+      - path: "\u7EC4001/2"
+        weight: 1
+      - path: "\u7EC4001/3"
+        weight: 1
+      - path: "\u7EC4001/4"
+        weight: 1
+      - path: "\u7EC4001/5"
+        weight: 1
+      - path: "\u7EC4001/6"
+        weight: 1
+      - path: "\u7EC4001/7"
+        weight: 1
+      - path: "\u7EC4001/8"
+        weight: 1
+      - path: "\u7EC4001/9"
+        weight: 1
+      - path: "\u7EC4001/10"
+        weight: 1
+      - path: "\u7EC4001/11"
+        weight: 1
+      - path: "\u7EC4001/12"
+        weight: 1
+      - path: "\u7EC4001/13"
+        weight: 1
+      - path: "\u7EC4001/14"
+        weight: 1
+      - path: "\u7EC4001/15"
+        weight: 1
+      - path: "\u7EC4001/16"
+        weight: 1
+      - path: "\u7EC4001/17"
+        weight: 1
+      - path: "\u7EC4001/18"
+        weight: 1
+      - path: "\u7EC4001/19"
+        weight: 1
+      - path: "\u7EC4001/20"
+        weight: 1
+      - path: "\u7EC4001/21"
+        weight: 1
+      - path: "\u7EC4001/22"
+        weight: 1
+      - path: "\u7EC4001/23"
+        weight: 1
+      - path: "\u7EC4001/24"
+        weight: 1
+      - path: "\u7EC4001/26"
+        weight: 1
+      - path: "\u7EC4001/27"
+        weight: 1
+      - path: "\u7EC4001/28"
+        weight: 1
+      - path: "\u7EC4001/29"
+        weight: 1
+      - path: "\u7EC4001/30"
+        weight: 1
+      - path: "\u7EC4001/31"
+        weight: 1
+      - path: "\u7EC4001/32"
+        weight: 1
+      - path: "\u7EC4001/33"
+        weight: 1
+      - path: "\u7EC4001/34"
+        weight: 1
+      - path: "\u7EC4001/35"
+        weight: 1
+      - path: "\u7EC4001/36"
+        weight: 1
+      - path: "\u7EC4001/37"
+        weight: 1
+      - path: "\u7EC4001/38"
+        weight: 1
+      - path: "\u7EC4001/39"
+        weight: 1
+      - path: "\u7EC4001/40"
+        weight: 1
+      - path: "\u7EC4001/40 1"
+        weight: 1
+      - path: "\u7EC4001/41"
+        weight: 1
+      - path: "\u7EC4001/42"
+        weight: 1
+      - path: "\u7EC4001/43"
+        weight: 1
+      - path: "\u7EC4001/44"
+        weight: 1
+      - path: "\u7EC4001/45"
+        weight: 1
+      - path: "\u7EC4001/Box002"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
